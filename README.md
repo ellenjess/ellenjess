@@ -1,6 +1,8 @@
-### Hi there! 👋 I'm Ellen Jessica.
+### Hey!
 
-I'm a **Computer Science student** and I'm passionate about turning ideas into code. I enjoy study with web development, cybersecurity and databases.
+My name is Ellen J., but I like to be called Logan.
+
+I'm a **Computer Science student** and Data Center Operator. I enjoy study with web development, cybersecurity and databases.
 
 ---
 
