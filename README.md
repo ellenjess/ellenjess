@@ -8,7 +8,7 @@ I'm a **Computer Science student** and Data Center Operator. I enjoy study with 
 
 ### My Skills
 
-- **Languages:** Java, JavaScript, HTML, CSS, Python, SQL and PL/SQL
+- **Languages:** Java, JavaScript, HTML, CSS, Python, C, SQL and PL/SQL
 - **Tools:** Git, GitHub, VS Code, MySQL
 
 
