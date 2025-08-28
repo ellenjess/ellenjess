@@ -1,14 +1,13 @@
 ### Hi there! 👋 I'm Ellen Jessica.
 
-I'm a **Computer Science student** and I'm passionate about turning ideas into code. I enjoy working with web development and and I'm dedicated to creating efficient and clean solutions.
+I'm a **Computer Science student** and I'm passionate about turning ideas into code. I enjoy study with web development, cybersecurity and databases.
 
 ---
 
 ### My Skills
 
 - **Languages:** Java, JavaScript, HTML, CSS, Python, SQL and PL/SQL
-- **Frameworks and Libraries:** React, Spring Boot, Node.js
-- **Tools:** Git, GitHub, VS Code, Docker
+- **Tools:** Git, GitHub, VS Code, MySQL
 
 
 <!--
