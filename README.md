@@ -2,7 +2,7 @@
 
 My name is Ellen J., but I like to be called Logan.
 
-I'm a **Computer Science student** and Data Center Operator. I enjoy study with web development, cybersecurity and databases.
+I'm a **Computer Science student** and Data Center Operator. I enjoy study with development, cybersecurity and databases.
 
 ---
 
