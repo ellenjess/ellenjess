@@ -1,28 +1,37 @@
-### Hey!
+# Hi there, I'm Logan! 👋
 
-My name is Ellen J., but I like to be called Logan.
+**Data Center Operator | Cybersecurity & DevOps Enthusiast | IT Student**
 
-I'm a **Computer Science student** and Data Center Operator. I enjoy study with development, cybersecurity and databases.
+I am an IT professional and student focused on building **secure, automated, and observable infrastructure**. My daily work in Data Center operations, combined with my passion for Cybersecurity and DevOps, allows me to build robust environments from the hardware up to the application layer.
 
 ---
 
-### My Skills
+### 🛡️ Cybersecurity & Infrastructure
+*   **Security:** Focused on Linux hardening, secure network protocols, and the certifications.
+*   **Edge & Proxy:** Implementing **Traefik** as a reverse proxy with automated SSL and middleware security.
+*   **Database Management:** Designing and securing relational databases (MySQL, MariaDB, PostgreSQL, Oracle).
 
-- **Languages:** Python, C, SQL and PL/SQL
-- **Tools:** Git, GitHub, VS Code, MySQL
+### ♾️ DevOps & Observability
+*   **IaC:** Provisioning and managing infrastructure through **Terraform**.
+*   **Automation:** Writing **Ansible** playbooks for configuration management and **Docker/K3s** for container orchestration.
+*   **Monitoring:** Building real-time dashboards in **Grafana** integrated with **Zabbix** and GLPI for full-stack visibility.
 
+---
 
-<!--
-**ellenjess/ellenjess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Tools
 
-Here are some ideas to get you started:
+- **Languages:** `Python`, `Go`, `Bash/Shell`, `PHP`, `C`
+- **Data & Config:** `JSON`, `YAML/YML`, `SQL`
+- **DevOps/IaC:** `Terraform`, `Ansible`, `Docker (compose and swarm)`, `Kubernetes (K3s)`
+- **Observability & Edge:** `Grafana`, `Zabbix`, `Traefik`, `GLPI`
+- **Security & Network:** `Linux Hardening`, `Network Troubleshooting`, `SQL Security`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 Featured Home Lab Projects
+- **Self-Healing Infrastructure:** Using **Terraform** and **Ansible** to deploy automated environments.
+- **Secure Edge Routing:** A **Traefik** setup managing traffic for multiple containerized services with automated certificates.
+- **Advanced Monitoring:** Custom **Grafana** dashboards to visualize Data Center metrics and server health.
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ellen-jessica-cardoso/)
