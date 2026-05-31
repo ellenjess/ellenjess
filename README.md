@@ -1,4 +1,4 @@
-# Hi there, I'm Logan! 👋
+# Hi there, I'm Ellen!
 
 **Data Center Operator | Cybersecurity & DevOps Enthusiast | IT Student**
 
