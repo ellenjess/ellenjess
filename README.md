@@ -1,7 +1,5 @@
 # Hi there, I'm Ellen!
 
-**Data Center Operator | Cybersecurity & DevOps Enthusiast | IT Student**
-
 I am an IT professional and student focused on building **secure, automated, and observable infrastructure**. My daily work in Data Center operations, combined with my passion for Cybersecurity and DevOps, allows me to build robust environments from the hardware up to the application layer.
 
 ---
